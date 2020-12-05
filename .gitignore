@@ -7,6 +7,11 @@
 *.obj
 *.elf
 
+# Dmenu
+config.h
+dmenu
+stest
+
 # Linker output
 *.ilk
 *.map
