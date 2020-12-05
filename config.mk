@@ -1,5 +1,5 @@
 # dmenu version
-VERSION = 4.9
+VERSION = 5.0.Persimmon
 
 # paths
 PREFIX = /usr/local
